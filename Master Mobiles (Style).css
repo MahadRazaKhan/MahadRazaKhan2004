@@ -1,0 +1,13 @@
+#cards01{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#cards02{
+    display: flex;
+    justify-content: space-evenly;
+}
+#cards03{
+    display: flex;
+    justify-content: space-evenly;
+}
