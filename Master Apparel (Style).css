@@ -1,0 +1,18 @@
+#cards{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px;
+}
+#cards02{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px;
+}
+#cards03{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px;
+}
+#footer{
+    display: inline-block;
+}
